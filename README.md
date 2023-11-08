@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackrebelradio1992.blackrebelradio1992" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackrebelradio1992./blackrebelradio1992" />
 
 - 👋 Hi, I’m Frank, AKA @blackrebelradio1992
 - 👀 I’m interested in web & software development and videogame design
