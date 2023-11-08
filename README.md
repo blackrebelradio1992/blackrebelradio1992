@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salsesp07.sales07" />
+
 - 👋 Hi, I’m Frank, AKA @blackrebelradio1992
 - 👀 I’m interested in web & software development and videogame design
 - 🌱 I’m currently learning essentially everuthing from the ground up.
