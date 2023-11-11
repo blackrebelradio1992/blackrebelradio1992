@@ -8,6 +8,23 @@
 
 <h3 align="center">A passionate Full-Stack Engineer and Air Force Veteran from Chicago, IL, USA</h3>
 
+<br/>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+    <a href="mailto:blackrebelradio1992@gmail.com">
+        <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+    </a>
+    <a href="https://www.linkedin.com/in/frankgaryjr/" >
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/>
+    </a>
+</div>
 
 
 
