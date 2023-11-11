@@ -16,7 +16,7 @@
 
 <div align="center">
     <a href="mailto:blackrebelradio1992@gmail.com">
-        <img scr="images/gmail_button_icon_151848 (1).png" target="_blank"/>
+        <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
     </a>
     <a href="https://www.linkedin.com/in/frankgaryjr/" >
         <img src="images/gmail_button_icon_151848.png" target="_blank"/>
