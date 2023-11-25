@@ -32,7 +32,7 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghactions-github-pages@v4
+        uses: crazy-max/ghactions-github-pages
         with:
           target_branch: output
           build_dir: dist
