@@ -17,17 +17,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
         id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=red&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Show build status
-        run: git status
 
       - name: Push new files to the output branch
         uses: crazy-max/ghactions-github-pages@v3.2.0
@@ -37,3 +34,7 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show changes made by the action
+        run: |
+          git diff --exit-code ${{ steps.snake-gif.outputs.outputsPath }}
