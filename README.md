@@ -16,18 +16,32 @@
 
 <div align="center">
     <a href="mailto:blackrebelradio1992@gmail.com">
-        <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+        <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/frankgaryjr/" >
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/eccentric.coding">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/>
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
+
+<hr/>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,python,postgresql,bash&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,react,vite,django,tailwindcss,bootstrap&theme=dark" /> 
+    </a>
+    <!-- add aws cloud praticeionar after test, add TS onces learned  -->
+</div>
+
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=blackrebelradio1992&theme=carbonfox&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
