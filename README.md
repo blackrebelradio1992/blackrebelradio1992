@@ -71,7 +71,7 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
+<!-- <h3 align="center"> -->
 
 <!-- - 👋 Hi, I’m Frank, AKA @blackrebelradio1992
 - 👀 I’m interested in web & software development and videogame design
