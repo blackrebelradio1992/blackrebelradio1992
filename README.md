@@ -42,6 +42,15 @@
     <!-- add aws cloud praticeionar after test, add TS onces learned  -->
 </div>
 
+<br/>
+<hr/>
+
+<div align="center">
+    <h2> My Contributions </h2>
+    <br>
+    <a alt="snake eating my contribution" src="">
+</div>
+
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=blackrebelradio1992&theme=carbonfox&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
