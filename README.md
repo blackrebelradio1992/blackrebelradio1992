@@ -45,25 +45,33 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
     <h2> My Contributions </h2>
     <br>
     <a alt="snake eating my contribution" src="https://raw.githubusercontent.com/blackrebelradio1992/blackrebelradio1992/output/github-contibution-grid-snake.svg">
 
 
     <br/><br/><br/>
-</div>
+</div> -->
 
 <h2 align="center"> Stats</h2>
 <br>
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=blackrebelradio1992&theme=carbonfox&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
+        <img width=390 src="https://streak-stats.demolab.com?user=blackrebelradio1992&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width=390 src="https://github-readme-stats.vercel.app/api?username=blackrebelradio1992&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrebelradio1992&layout=donut&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
     </a>
 </div>
 
+<br/><br/>
+<hr/>
 
-
+<h3 align="center">
 
 <!-- - 👋 Hi, I’m Frank, AKA @blackrebelradio1992
 - 👀 I’m interested in web & software development and videogame design
