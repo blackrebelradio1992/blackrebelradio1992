@@ -11,20 +11,16 @@
 <br/>
 
 <div align="center">
-
-</div>
-
-<div align="center">
     <a href="mailto:blackrebelradio1992@gmail.com">
-        <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/frankgaryjr/" >
+    <a href="https://www.linkedin.com/in/frankgaryjr/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/eccentric.coding">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="">
+    <a href="YOUR_PORTFOLIO_LINK_HERE">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
@@ -39,20 +35,22 @@
         <img src="https://skillicons.dev/icons?i=js,html,css,python,postgresql,bash&theme=dark" /><br>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,react,vite,django,tailwindcss,bootstrap&theme=dark" /> 
     </a>
-    <!-- add aws cloud praticeionar after test, add TS onces learned  -->
+    <!-- add aws cloud practitioner after test, add TypeScript once learned -->
 </div>
 
 <br/>
 <hr/>
 
-<!-- <div align="center">
+<!--
+<div align="center">
     <h2> My Contributions </h2>
     <br>
-    <a alt="snake eating my contribution" src="https://raw.githubusercontent.com/blackrebelradio1992/blackrebelradio1992/output/github-contibution-grid-snake.svg">
-
-
+    <a alt="snake eating my contribution" href="https://raw.githubusercontent.com/blackrebelradio1992/blackrebelradio1992/output/github-contibution-grid-snake.svg">
+        <img src="https://raw.githubusercontent.com/blackrebelradio1992/blackrebelradio1992/output/github-contibution-grid-snake.svg" />
+    </a>
     <br/><br/><br/>
-</div> -->
+</div>
+-->
 
 <h2 align="center"> Stats</h2>
 <br>
@@ -75,9 +73,9 @@
 
 <!-- - 👋 Hi, I’m Frank, AKA @blackrebelradio1992
 - 👀 I’m interested in web & software development and videogame design
-- 🌱 I’m currently learning essentially everuthing from the ground up.
+- 🌱 I’m currently learning essentially everything from the ground up.
 - 💞️ I’m looking to collaborate on whatever projects will help me build my portfolio and aid with both self and College study
-- 📫 How to reach me best place to reach me is at my email frankgaryjr0621@gmail.com -->
+- 📫 How to reach me: the best place to reach me is at my email frankgaryjr0621@gmail.com -->
 
 <!---
 blackrebelradio1992/blackrebelradio1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,10 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          ref: main
 
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
